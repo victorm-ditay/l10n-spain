@@ -8,6 +8,7 @@
 # Copyright 2024 David Ramia
 # Copyright 2013-2024 Tecnativa - Pedro M. Baeza
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl
+# Cambio para testear
 
 {
     "name": "AEAT Base",
